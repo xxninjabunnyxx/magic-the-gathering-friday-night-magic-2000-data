@@ -1,0 +1,18 @@
+---
+object: set
+id: b9c0c822-3cac-46ec-801d-0ec322913387
+code: fnm
+tcgplayer_id: 45
+name: Friday Night Magic 2000
+uri: https://api.scryfall.com/sets/b9c0c822-3cac-46ec-801d-0ec322913387
+scryfall_uri: https://scryfall.com/sets/fnm
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afnm&unique=prints
+released_at: '2000-01-01'
+set_type: promo
+card_count: 11
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
